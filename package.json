@@ -1,0 +1,25 @@
+{
+  "name": "secure-api-gateway",
+  "version": "1.0.0",
+  "description": "This repository demonstrates a secure API gateway concept with authentication and authorization mechanisms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Perera1325/secure-api-gateway.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Perera1325/secure-api-gateway/issues"
+  },
+  "homepage": "https://github.com/Perera1325/secure-api-gateway#readme",
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "globals": "^17.0.0",
+    "typescript-eslint": "^8.52.0"
+  }
+}
