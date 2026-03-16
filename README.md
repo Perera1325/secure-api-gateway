@@ -1,3 +1,6 @@
+[![CI](https://github.com/Perera1325/secure-api-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/Perera1325/secure-api-gateway/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/Perera1325/secure-api-gateway/actions/workflows/codeql.yml/badge.svg)](https://github.com/Perera1325/secure-api-gateway/actions/workflows/codeql.yml)
+
 ## 📌 Update
 [![CI](https://github.com/Perera1325/secure-api-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/Perera1325/secure-api-gateway/actions/workflows/ci.yml)
 
